@@ -2,7 +2,7 @@
 <p align="center">Bot Traducido por Bill</p>
 
 ## ✨Latest Updates
-Discord.js v13 will break this bot so do not use this with it. We have been started working on [v5](https://github.com/SudhanPlayz/Discord-MusicBot/tree/v5) which will be out in some days/months with new features and much more are on the way.
+Discord.js v13 romperá este bot, así que no lo use con él. Hemos comenzado a trabajar en v5, que estará disponible en algunos días/meses con nuevas características y muchas más están en camino..
 
 ## 🚧 Prerequisites 
 
@@ -10,11 +10,11 @@ Discord.js v13 will break this bot so do not use this with it. We have been star
 - [discord.js@12.5.3](https://www.npmjs.com/package/discord.js/v/12.5.3)
 - [Lavalink Server](https://github.com/freyacodes/Lavalink#server-configuration)
 
-> NOTE: Lavalink is needed for music functionality. You need to have a working Lavalink server to make the bot work.
+> NOTA: Lavalink es necesario para la funcionalidad de la música. Necesita tener un servidor Lavalink en funcionamiento para que el bot funcione.
 
 ## 📝 Tutorial
 
-A Tutorial has been uploaded on YouTube, Watch it by clicking on the image down below
+Se ha subido un tutorial a YouTube, míralo haciendo clic en la imagen de abajo
 
 [![Advanced Discord Music Bot with Web Dashboard | Spotify Support](https://img.youtube.com/vi/p4lP96Tiv9s/maxresdefault.jpg)](https://www.youtube.com/watch?v=p4lP96Tiv9s)
 
@@ -24,7 +24,7 @@ VPS / Server [Tutorial](https://github.com/SudhanPlayz/Discord-MusicBot/wiki/Ins
 
 ## 📝 [Support Server](https://discord.gg/sbySMS7m3v)
 
-If you have major coding issues with this bot, please join and ask for help.
+Si tiene problemas importantes de codificación con este bot, únase y solicite ayuda.
 
 ## 📸 Screenshots
 
