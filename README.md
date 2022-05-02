@@ -22,7 +22,7 @@ Repl.it [Tutorial](https://github.com/SudhanPlayz/Discord-MusicBot/wiki/Installa
 
 VPS / Server [Tutorial](https://github.com/SudhanPlayz/Discord-MusicBot/wiki/Installation-on-a-Linux-server)
 
-## 📝 [Support Server](https://discord.gg/sbySMS7m3v)
+## 📝 [Support Server](https://discord.gg/RKGAPbeaQH)
 
 Si tiene problemas importantes de codificación con este bot, únase y solicite ayuda.
 
@@ -47,6 +47,6 @@ Contributions are always welcomed :D Make sure to follow [Contributing.md](/CONT
   <img src="https://contributors-img.web.app/image?repo=SudhanPlayz/Discord-MusicBot" />
 </a>
 
-> **Note:** Contributions are not accepted in the master branch. If you like to contribute check out [v5 branch](https://github.com/SudhanPlayz/Discord-MusicBot/tree/v5)
+> **Nota:** Contributions are not accepted in the master branch. If you like to contribute check out [v5 branch](https://github.com/SudhanPlayz/Discord-MusicBot/tree/v5)
 
 Made with :heart: and JavaScript!
