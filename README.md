@@ -1,10 +1,10 @@
 <h1 align="center"><img src="./assets/logo.gif" width="30px"> Discord Music Bot <img src="./assets/logo.gif" width="30px"></h1>
 <p align="center">Bot Traducido por Bill</p>
 
-## ✨Latest Updates
+## ✨Últimas actualizaciones
 Discord.js v13 romperá este bot, así que no lo use con él. Hemos comenzado a trabajar en v5, que estará disponible en algunos días/meses con nuevas características y muchas más están en camino..
 
-## 🚧 Prerequisites 
+## 🚧 requisitos previos 
 
 - [Node.js 14+](https://nodejs.org/en/download/)
 - [discord.js@12.5.3](https://www.npmjs.com/package/discord.js/v/12.5.3)
@@ -22,7 +22,7 @@ Repl.it [Tutorial](https://github.com/SudhanPlayz/Discord-MusicBot/wiki/Installa
 
 VPS / Server [Tutorial](https://github.com/SudhanPlayz/Discord-MusicBot/wiki/Installation-on-a-Linux-server)
 
-## 📝 [Support Server](https://discord.gg/RKGAPbeaQH)
+## 📝 [Servidor de Soporte](https://discord.gg/RKGAPbeaQH)
 
 Si tiene problemas importantes de codificación con este bot, únase y solicite ayuda.
 
